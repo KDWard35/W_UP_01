@@ -63,6 +63,10 @@ This data shows the same results as the boxplot but also includes data on the me
 
 <!--State hypothesis clearly. Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc. Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
 
+```{r}
+t.test(pushups~position,data=mydata)
+```
+ The p-value, or probability, of 0.000009421 is so small that it proves a statistical difference between the the amount of pushups that can be done by "skill" and "line" players.
 
 # Discussion and Conclusion
 
