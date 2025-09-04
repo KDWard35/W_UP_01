@@ -72,3 +72,4 @@ t.test(pushups~position,data=mydata)
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+Using a boxplot to chart the data of the "skill" and "line" players, I was able to see a difference in their quartiles, with the "skill" players' first quartile being higher than the third quartile of the "line" players. I also found the mean and standard deviation of the data for the players, which showed a higher mean amount of pushups that can be completed by the "skill" players compared to the "line" players. Finally, I found a p-value of 0.000009421 and since it is less than 0.5, one can suggest there is a statistical difference between the amount of pushups each type of player can do.
